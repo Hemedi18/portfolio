@@ -19,8 +19,8 @@ html { scroll-behavior: smooth; }
 img{
   display:flex; max-inline-size:100%; height:auto;
   border-radius: 14px; object-fit: cover;
-  width: 50em;
-  height: 50em;
+  width: 20em;
+  height: 20em;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: -40em;
